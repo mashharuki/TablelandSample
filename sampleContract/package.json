@@ -1,0 +1,25 @@
+{
+  "name": "samplecontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile",
+    "node:start": "npx hardhat node --network local-tableland",
+    "deploy:local": "npx hardhat run scripts/deploy.js --network localhost"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@tableland/hardhat": "^0.0.4",
+    "@tableland/sdk": "^4.3.0",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0",
+    "@tableland/evm": "^4.2.2"
+  }
+}

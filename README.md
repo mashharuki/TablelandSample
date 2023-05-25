@@ -30,5 +30,5 @@ npm install --save @tableland/sdk
 
 1. [Tableland Docs](https://docs.tableland.xyz/quickstarts/sdk-quickstart)
 2. [Quickstart](https://docs.tableland.xyz/quickstarts/sdk-quickstart)
-3. []()
+3. [Quickstart Hardhat](https://docs.tableland.xyz/quickstarts/hardhat)
 4. []()
