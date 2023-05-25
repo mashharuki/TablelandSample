@@ -1,0 +1,20 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "query": "node scripts/index.js",
+    "create": "node scripts/create_table.js",
+    "insert": "node scripts/insert_table.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@tableland/sdk": "^4.3.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.0"
+  }
+}
