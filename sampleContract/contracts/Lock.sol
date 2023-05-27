@@ -19,7 +19,7 @@ contract Lock is ERC721Holder {
     /**
      * コンストラクター
      */
-    constructor() {
+    constructor() payable {
         console.log("contract deployed!");
     }
 
