@@ -31,4 +31,5 @@ npm install --save @tableland/sdk
 1. [Tableland Docs](https://docs.tableland.xyz/quickstarts/sdk-quickstart)
 2. [Quickstart](https://docs.tableland.xyz/quickstarts/sdk-quickstart)
 3. [Quickstart Hardhat](https://docs.tableland.xyz/quickstarts/hardhat)
-4. []()
+4. [Tableland + Filecoin: FEVM Support](https://mirror.xyz/tableland.eth/cLDRyLa7aMEf1y2sy-PhQtllnZ1YK_oxoS-U2Sf30_Y)
+5. [Tutorials](https://docs.tableland.xyz/tutorials/)
