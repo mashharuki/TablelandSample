@@ -33,3 +33,6 @@ npm install --save @tableland/sdk
 3. [Quickstart Hardhat](https://docs.tableland.xyz/quickstarts/hardhat)
 4. [Tableland + Filecoin: FEVM Support](https://mirror.xyz/tableland.eth/cLDRyLa7aMEf1y2sy-PhQtllnZ1YK_oxoS-U2Sf30_Y)
 5. [Tutorials](https://docs.tableland.xyz/tutorials/)
+6. [【GitHub】example-canvas-game](https://github.com/tablelandnetwork/example-canvas-game)
+7. [【GitHub】hardhat-tableland-plugin](https://github.com/tablelandnetwork/hardhat-tableland)
+8. [Supported chains](https://docs.tableland.xyz/fundamentals/chains/)
