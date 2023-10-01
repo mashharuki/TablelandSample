@@ -38,3 +38,6 @@ npm install --save @tableland/sdk
 8. [Supported chains](https://docs.tableland.xyz/fundamentals/chains/)
 9. [p5.js](https://p5js.org/)
 10. [How to use p5.js with TypeScript and webpack](https://dev.to/tendonnman/how-to-use-p5js-with-typescript-and-webpack-57ae)
+11. [【GitHub】tutorial-on-chain-reads-chainlink-arbitrum](https://github.com/dtbuchholz/tutorial-on-chain-reads-chainlink-arbitrum)
+12. [Testnet Oracles Info](https://docs.chain.link/any-api/testnet-oracles/)
+13. [Arbitrum RPC endpoints](https://docs.arbitrum.io/node-running/node-providers)
